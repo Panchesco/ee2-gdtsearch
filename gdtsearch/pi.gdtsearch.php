@@ -127,7 +127,8 @@
 			 	switch($this->title->channel_name)
 			 	{
 
-				 	default:
+				 	// Probably best to leave the default branch alone.
+					default:
 					 	if($this->auto_path !== FALSE)
 					 	{ 
 					 		return $this->auto_path;
