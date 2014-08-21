@@ -169,7 +169,7 @@
 					
 					TAGS:
 					----------------------------------------------------------------------------
-					{exp:gdsearch:url entry_id="{entry_id}" auto_path="{auto_path}"}
+					{exp:gdtsearch:url entry_id="{entry_id}" auto_path="{auto_path}"}
 					
 					
 					
